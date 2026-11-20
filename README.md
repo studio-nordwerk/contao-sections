@@ -61,3 +61,7 @@ Die [Nordwerk-Themes](https://www.nordwerk.studio/contao) setzen alle Variablen 
 ## Twig-Integration
 
 `nw_sections_assets()` lädt das Stylesheet für eigenes Markup, `nw_section_icon(name)` gibt eines der Linien-Symbole aus. Beispiel und die Bausteine der anderen Bundles: [Integrationsdokumentation](docs/integration.md).
+
+## Fehler und Wünsche
+
+Bitte als Issue in [studio-nordwerk/contao-pakete](https://github.com/studio-nordwerk/contao-pakete/issues) melden. Der Quellcode auf GitHub ist ein schreibgeschützter Spiegel; entwickelt wird das Paket intern bei Studio Nordwerk, Pull Requests dort werden nicht übernommen.
